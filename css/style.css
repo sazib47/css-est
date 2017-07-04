@@ -34,6 +34,7 @@ body {
 .footer-list {
     padding-left: 0;
     list-style-type: none;
+    line-height: 2;
 }
 
 .footer-menu {
